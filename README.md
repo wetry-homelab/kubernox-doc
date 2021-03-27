@@ -1,1 +1,3 @@
-# kubernox-doc
+# What is kubernox
+
+> An awesome project.
